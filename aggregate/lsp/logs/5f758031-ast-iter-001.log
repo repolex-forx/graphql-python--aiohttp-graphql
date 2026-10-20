@@ -1,0 +1,7 @@
+[2026-10-20T23:40:16Z] === AST ITERATION 1 START | repo=graphql-python/aiohttp-graphql sha=5f758031 ===
+[2026-10-20T23:40:16Z] [iter=1] PHASE START: ast repo=graphql-python/aiohttp-graphql sha=5f758031
+[2026-10-20T23:40:16Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T23:40:21Z] [iter=1] AST chunks built count=1 triples=39863
+[2026-10-20T23:40:21Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5f7580310761dd7de33b44bc92f30b2695f2d523/.complete
+[2026-10-20T23:40:21Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-10-20T23:40:21Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
