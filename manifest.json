@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "graphql-python",
+  "repo": "aiohttp-graphql",
+  "versions": [
+    {
+      "commit": "5f7580310761dd7de33b44bc92f30b2695f2d523",
+      "parsed_at": "2026-10-20T23:35:38.751431+00:00",
+      "filetree": "filetree/5f7580310761dd7de33b44bc92f30b2695f2d523.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/bd85dbb6068cecfe7dd0574d0dc3e9cd34716228.nq.gz",
+        "blob/5f4a9734bf45d772d0f9ac51c3fc447fb178e1b8.nq.gz",
+        "blob/0e5c7e487bf04e119cc21108dd84499c18587e67.nq.gz",
+        "blob/0a940f9ffd72f4c68dcbef9deac0bbdc2c5f2a6c.nq.gz",
+        "blob/c44bad69ce42b6a30d229603a96908154b0ef6a5.nq.gz",
+        "blob/59e7ff1c98c3d12de39496e1f42af87fbd9f7833.nq.gz",
+        "blob/7223ca8371ba66d81d9cd34f21ddbada298bd922.nq.gz",
+        "blob/b1dbd18170c62d1ece0d4a77ed015b3109caadd3.nq.gz",
+        "blob/61e4d59c274d0d6f1dec24909fc7bf09b1ecba84.nq.gz",
+        "blob/ea2c92160c1fd065fa59728e50b172199a525764.nq.gz",
+        "blob/ec879546a818848a6d3fbd9c80a0944fbc8c07e3.nq.gz",
+        "blob/eb0db43855082865ef38410b979c2f1400f8f025.nq.gz",
+        "blob/43f7e99496152e32cb1becad75e5b58daf619662.nq.gz",
+        "blob/642f015bf654723c3863819074fc78c5dbe328a6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
