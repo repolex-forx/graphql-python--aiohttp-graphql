@@ -1,0 +1,11 @@
+{
+  "org": "graphql-python",
+  "repo": "aiohttp-graphql",
+  "versions": [
+    {
+      "commit": "5f7580310761dd7de33b44bc92f30b2695f2d523",
+      "tag": "",
+      "parsed_at": "2026-10-20T23:41:22.941605+00:00"
+    }
+  ]
+}
